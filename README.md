@@ -37,17 +37,29 @@ It automates a **K-Means clustering pipeline**, showcasing key principles of **r
 
 mlops-airflow-lab1/
 │
+
 ├── dags/
+
 │   └── airflow_lab1_dag.py           # Main DAG file (this project)
+
 │
+
 ├── logs/                             # Airflow-generated logs
+
 │   └── dag_processor_manager/
+
 │
+
 ├── working_data/
+
 │   ├── iris.csv                      # Sample dataset
+
 │   └── model_rithika.pkl             # Saved model artifact
+
 │
+
 ├── .gitignore                        # Excludes logs & temp files
+
 └── README.md                         # Project documentation
 
 
