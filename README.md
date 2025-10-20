@@ -22,6 +22,9 @@ It automates a **K-Means clustering pipeline**, showcasing key principles of **r
 **DAG Name:** `Airflow_Lab1_Rithika`  
 **Description:** K-Means Clustering Workflow + Model Save + Serving Simulation  
 
+<img width="2828" height="1358" alt="image" src="https://github.com/user-attachments/assets/7fe63723-cb12-4ab9-96da-3215161c5ea6" />
+
+
 ### 📊 Task Flow
 1. **`load_data_task`** – Creates a small synthetic dataset.  
 2. **`data_preprocessing_task`** – Performs normalization.  
